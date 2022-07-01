@@ -5,7 +5,6 @@
  * Remain: Always 0 (Success/correct)
  */
 int main(void)
-
 {
 	char base_16;
 
